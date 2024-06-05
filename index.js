@@ -1,2 +1,3 @@
-    var x=5;
-    console.log(x);
+
+var x = 5;
+console.log("El valor de x es:", x);
